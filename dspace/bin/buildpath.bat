@@ -1,4 +1,4 @@
-@REMss
+@REMss PPPP
 @REM buildpath.bat
 @REM
 @REM Version: $Revision$
